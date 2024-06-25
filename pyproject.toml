@@ -3,4 +3,4 @@ requires = ["setuptools"]
 build-backend = "setuptools.build_meta"
 
 [tool.dagster]
-module_name = "dagster_great_expectations"
+module_name = "dagster_ge_demo"
